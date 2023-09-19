@@ -1,0 +1,4 @@
+#ignoring client side dependecies
+./client/node_modules/*
+#ignoring server side dependecies
+./server/node_modules\*
